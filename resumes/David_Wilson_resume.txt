@@ -1,0 +1,14 @@
+David Wilson Software Developer
+
+Email: davidwilson@example.com
+
+Professional Summary Software developer with experience building
+scalable applications.
+
+Skills Python, Django, PostgreSQL Git, REST APIs, SQL
+
+Experience Software Developer | Example Technologies 2022 - Present -
+Developed enterprise applications. - Collaborated with cross-functional
+teams. - Wrote unit tests and improved application performance.
+
+Education Bachelor of Technology
